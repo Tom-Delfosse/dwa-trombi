@@ -64,6 +64,8 @@ export default defineComponent({
 </script>
 
 <style lang="scss" scoped>
+@import '~@/styles/utils/index';
+
 .nav {
   position: fixed;
   top: 0;
